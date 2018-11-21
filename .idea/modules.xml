@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection_demo/collection_demo.iml" filepath="$PROJECT_DIR$/collection_demo/collection_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/conllection_demo/conllection_demo.iml" filepath="$PROJECT_DIR$/conllection_demo/conllection_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima_javaee_demo.iml" filepath="$PROJECT_DIR$/itheima_javaee_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/list_demo/list_demo.iml" filepath="$PROJECT_DIR$/list_demo/list_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/object_demo/object_demo.iml" filepath="$PROJECT_DIR$/object_demo/object_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set_demo/set_demo.iml" filepath="$PROJECT_DIR$/set_demo/set_demo.iml" />
     </modules>
   </component>
 </project>

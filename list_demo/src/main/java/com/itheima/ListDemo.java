@@ -41,5 +41,6 @@ public class ListDemo {
         for (String s : list) {
             System.out.println(s);
         }
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~");
     }
 }

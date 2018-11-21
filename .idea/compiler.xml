@@ -14,7 +14,7 @@
     <bytecodeTargetLevel>
       <module name="conllection_demo" target="1.7" />
       <module name="itheima_javaee_demo" target="1.7" />
-      <module name="list_demo" target="1.5" />
+      <module name="list_demo" target="1.6" />
       <module name="object_demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>

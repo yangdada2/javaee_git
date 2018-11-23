@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/collection_demo/collection_demo.iml" filepath="$PROJECT_DIR$/collection_demo/collection_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/conllection_demo/conllection_demo.iml" filepath="$PROJECT_DIR$/conllection_demo/conllection_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excption_demo/excption_demo.iml" filepath="$PROJECT_DIR$/excption_demo/excption_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima_javaee_demo.iml" filepath="$PROJECT_DIR$/itheima_javaee_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/list_demo/list_demo.iml" filepath="$PROJECT_DIR$/list_demo/list_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/map_demo/map_demo.iml" filepath="$PROJECT_DIR$/map_demo/map_demo.iml" />

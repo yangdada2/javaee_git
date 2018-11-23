@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="collection_demo" />
         <module name="conllection_demo" />
+        <module name="excption_demo" />
         <module name="list_demo" />
         <module name="map_demo" />
         <module name="object_demo" />
@@ -17,6 +18,7 @@
     <bytecodeTargetLevel>
       <module name="collection_demo" target="1.5" />
       <module name="conllection_demo" target="1.7" />
+      <module name="excption_demo" target="1.5" />
       <module name="itheima_javaee_demo" target="1.7" />
       <module name="list_demo" target="1.6" />
       <module name="map_demo" target="1.7" />

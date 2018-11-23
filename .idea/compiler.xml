@@ -13,6 +13,7 @@
         <module name="map_demo" />
         <module name="object_demo" />
         <module name="set_demo" />
+        <module name="therd_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="map_demo" target="1.7" />
       <module name="object_demo" target="1.5" />
       <module name="set_demo" target="1.7" />
+      <module name="therd_demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

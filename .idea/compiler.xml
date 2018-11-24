@@ -15,6 +15,7 @@
         <module name="set_demo" />
         <module name="therd_demo" />
         <module name="thread_demo" />
+        <module name="thread_demo02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +29,7 @@
       <module name="set_demo" target="1.7" />
       <module name="therd_demo" target="1.5" />
       <module name="thread_demo" target="1.5" />
+      <module name="thread_demo02" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

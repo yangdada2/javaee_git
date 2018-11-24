@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/map_demo/map_demo.iml" filepath="$PROJECT_DIR$/map_demo/map_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/object_demo/object_demo.iml" filepath="$PROJECT_DIR$/object_demo/object_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/set_demo/set_demo.iml" filepath="$PROJECT_DIR$/set_demo/set_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadPool_demo/threadPool_demo.iml" filepath="$PROJECT_DIR$/threadPool_demo/threadPool_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/therd_demo/thread_demo.iml" filepath="$PROJECT_DIR$/therd_demo/thread_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_demo02/thread_demo02.iml" filepath="$PROJECT_DIR$/thread_demo02/thread_demo02.iml" />
     </modules>

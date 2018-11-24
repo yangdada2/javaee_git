@@ -1,5 +1,9 @@
 package com.itheima.domain;
 
+
+/**
+ * 线程的提供者
+ */
 public class BaoZi {
     String oier;
     String xianer;

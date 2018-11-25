@@ -10,6 +10,7 @@
         <module name="conllection_demo" />
         <module name="excption_demo" />
         <module name="file_demo" />
+        <module name="io_demo" />
         <module name="lambda_demo" />
         <module name="list_demo" />
         <module name="map_demo" />
@@ -27,6 +28,7 @@
       <module name="conllection_demo" target="1.7" />
       <module name="excption_demo" target="1.5" />
       <module name="file_demo" target="1.8" />
+      <module name="io_demo" target="1.5" />
       <module name="itheima_javaee_demo" target="1.7" />
       <module name="lambda_demo" target="1.5" />
       <module name="list_demo" target="1.6" />

@@ -5,11 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/collection_demo/collection_demo.iml" filepath="$PROJECT_DIR$/collection_demo/collection_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/conllection_demo/conllection_demo.iml" filepath="$PROJECT_DIR$/conllection_demo/conllection_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/excption_demo/excption_demo.iml" filepath="$PROJECT_DIR$/excption_demo/excption_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_demo/file_demo.iml" filepath="$PROJECT_DIR$/file_demo/file_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima_javaee_demo.iml" filepath="$PROJECT_DIR$/itheima_javaee_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda_demo/lambda_demo.iml" filepath="$PROJECT_DIR$/lambda_demo/lambda_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/list_demo/list_demo.iml" filepath="$PROJECT_DIR$/list_demo/list_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/map_demo/map_demo.iml" filepath="$PROJECT_DIR$/map_demo/map_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/object_demo/object_demo.iml" filepath="$PROJECT_DIR$/object_demo/object_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_demo/recursive_demo.iml" filepath="$PROJECT_DIR$/recursive_demo/recursive_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/set_demo/set_demo.iml" filepath="$PROJECT_DIR$/set_demo/set_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadPool_demo/threadPool_demo.iml" filepath="$PROJECT_DIR$/threadPool_demo/threadPool_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/therd_demo/thread_demo.iml" filepath="$PROJECT_DIR$/therd_demo/thread_demo.iml" />

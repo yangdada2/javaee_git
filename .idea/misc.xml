@@ -14,6 +14,8 @@
         <option value="$PROJECT_DIR$/thread_demo02/pom.xml" />
         <option value="$PROJECT_DIR$/threadPool_demo/pom.xml" />
         <option value="$PROJECT_DIR$/lambda_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/file_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/recursive_demo/pom.xml" />
       </list>
     </option>
   </component>

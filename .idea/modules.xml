@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/buffered_demo/buffered_demo.iml" filepath="$PROJECT_DIR$/buffered_demo/buffered_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection_demo/collection_demo.iml" filepath="$PROJECT_DIR$/collection_demo/collection_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/conllection_demo/conllection_demo.iml" filepath="$PROJECT_DIR$/conllection_demo/conllection_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/excption_demo/excption_demo.iml" filepath="$PROJECT_DIR$/excption_demo/excption_demo.iml" />

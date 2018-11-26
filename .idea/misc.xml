@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/file_demo/pom.xml" />
         <option value="$PROJECT_DIR$/recursive_demo/pom.xml" />
         <option value="$PROJECT_DIR$/io_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/buffered_demo/pom.xml" />
       </list>
     </option>
   </component>

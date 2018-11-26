@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="buffered_demo" />
         <module name="collection_demo" />
         <module name="conllection_demo" />
         <module name="excption_demo" />
@@ -24,6 +25,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="buffered_demo" target="1.5" />
       <module name="collection_demo" target="1.5" />
       <module name="conllection_demo" target="1.7" />
       <module name="excption_demo" target="1.5" />
